@@ -1,13 +1,13 @@
 # Indoor-Animal
 --
-Class Main (classe principale)
+Class Main (classe principale):
 1.Creare le istanze degli animali (Dog, Cat, Fish) estendendo la classe astratta Animal
 1.1.Chiamare i metodi:
 .verso() per mostrare il verso dell'animale
 .azione() per rappresentare un comportamento tipico
 .luogo() per indicare il lugo preferito
 --
-Class Animal (classe astratta)
+Class Animal (classe astratta):
 2.Definisce un attributo comune a tutti gli animali (nome)
 2.1.Metodi astratti:
 .verso() definisce il verso che ogni animale farà
