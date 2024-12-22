@@ -1,0 +1,7 @@
+Indoor Aniamls
+Introduzione
+Il progetto Indoor Animals è un'applicazione Java che simula virtualmente un gruppo di animali domestici.
+Ogni animale ha un nome, un verso, un'azione tipica e un luogo preferito.
+Il progetto utilizza il concetto di classi astratte per implementare un'architettura orientata agli oggetti,
+consentendo flessibilità e riusabilità del codice.
+
